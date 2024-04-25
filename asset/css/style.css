@@ -262,6 +262,7 @@ header h2{
 .singleProduct{
     height: 100vh;
     overflow: hidden;
+    background-color: #fff;
 }
 
 .singleProduct main{padding: 25px 25px 0;}
